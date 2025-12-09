@@ -1,7 +1,7 @@
 # pypacm package manager
 
 ```
-Basic Python CLI package manager script inspired by the Arch Linux pacman. Please report any bugs!
+Basic Python package manager script inspired by the Arch Linux pacman with a tui/cli interface. Please report any bugs!
 ```
 #
 ### Installation
@@ -13,3 +13,4 @@ Basic Python CLI package manager script inspired by the Arch Linux pacman. Pleas
 
 1. Open `pypacm` anywhere using `Command Prompt`
 2. Find and `Uninstall/Install` any of the installed packages
+
